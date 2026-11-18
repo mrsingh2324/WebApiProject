@@ -83,19 +83,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yaswanth.devarasetti\\.nuget\\packages\\": {}
+    "C:\\Users\\vaishnavi.reddi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yaswanth.devarasetti\\OneDrive - Acuvate Software Private Limited\\Webapi_Project\\Demo_Project\\Demo_Project.csproj",
+      "projectUniqueName": "C:\\Users\\vaishnavi.reddi\\OneDrive - Acuvate Software Private Limited\\Desktop\\LearnGithubFork\\WebApiProject\\Demo_Project\\Demo_Project.csproj",
       "projectName": "Demo_Project",
-      "projectPath": "C:\\Users\\yaswanth.devarasetti\\OneDrive - Acuvate Software Private Limited\\Webapi_Project\\Demo_Project\\Demo_Project.csproj",
-      "packagesPath": "C:\\Users\\yaswanth.devarasetti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yaswanth.devarasetti\\OneDrive - Acuvate Software Private Limited\\Webapi_Project\\Demo_Project\\obj\\",
+      "projectPath": "C:\\Users\\vaishnavi.reddi\\OneDrive - Acuvate Software Private Limited\\Desktop\\LearnGithubFork\\WebApiProject\\Demo_Project\\Demo_Project.csproj",
+      "packagesPath": "C:\\Users\\vaishnavi.reddi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vaishnavi.reddi\\OneDrive - Acuvate Software Private Limited\\Desktop\\LearnGithubFork\\WebApiProject\\Demo_Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\yaswanth.devarasetti\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\vaishnavi.reddi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
